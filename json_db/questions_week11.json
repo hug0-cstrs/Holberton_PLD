@@ -1,0 +1,30 @@
+{
+  "questions": [
+  "How to create files ?",
+  "How to open files ?",
+  "How to close files ?",
+  "How to read files ?",
+  "How to write files ?",
+  "What are file descriptors ?",
+  "What are the 3 standard file descriptors ?",
+  "What are the purpose of the 3 standard file descriptors ?",
+  "What are the POSIX names of the 3 standard file descriptors ?",
+  "How to use the I/O system calls open, close, read and write ?",
+  "What are and how to use the flags O_RDONLY ?",
+  "What are and how to use the flags O_WRONLY ?",
+  "What are and how to use the flags O_RDWR ?",
+  "What are file permissions ?",
+  "How to set the file permissions when creating a file ?",
+  "What is a system call ?",
+  "What is the difference between a function and a system call ?",
+  "What is a hash function ?",
+  "What makes a good hash function ?",
+  "What is a hash table ?",
+  "How do work hash table ?",
+  "How to use hash table ?",
+  "What is a collision ?",
+  "What are the main ways of dealing with collisions in the context of a hash table ?",
+  "What are the advantages and drawbacks of using hash tables ?",
+  "What are the most common use cases of hash tables ?"
+    ]
+}

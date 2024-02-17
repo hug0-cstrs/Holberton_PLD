@@ -1,0 +1,22 @@
+{
+  "questions": [
+    "What is recursion ?",
+    "How to implement recursion ?",
+    "In what situations you should implement recursion ?",
+    "In what situations you should't implement recursion ?",
+    "What are the advantages of using recursion in programming ?",
+    "What are the disadvantages of using recursion ?",
+    "What is a static library ?",
+    "How does a static library work ?",
+    "How to create a static library ?",
+    "How to use static library ?",
+    "What happens if two static libraries contain the same function name ?",
+    "What is the basic usage of ar ?",
+    "What is the basic usage of ranlib ?",
+    "What is the basic usage of nm  ?",
+    "How to use arguments passed to your program ?",
+    "What are the two prototypes of main that you know of ?",
+    "In which case do you use one of the two prototypes of main ?",
+    "How to use __attribute__((unused)) or (void) to compile functions with unused variables or parameters ?"
+  ]
+}

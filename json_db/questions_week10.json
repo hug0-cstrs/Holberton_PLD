@@ -1,0 +1,11 @@
+{
+  "questions": [
+    "When using linked lists vs arrays ?",
+    "Why using linked lists vs arrays ?",
+    "How to build and use linked lists ?",
+    "What is a doubly linked list ?",
+    "How to use doubly linked lists ?",
+    "How to manipulate bits ?",
+    "How to use bitwise operators ?"
+  ]
+}

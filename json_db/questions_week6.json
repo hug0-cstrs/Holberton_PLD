@@ -1,0 +1,18 @@
+{
+  "questions": [
+    "What is the difference between automatic and dynamic allocation ?",
+    "What is malloc ?",
+    "What is free ?",
+    "How to use malloc ?",
+    "How to use free ?",
+    "Why and when use malloc ?",
+    "Can malloc fail to allocate memory ?",
+    "What is the difference between malloc and calloc ?",
+    "How to use valgrind to check for memory leak ?",
+    "What are the potential risks of using dynamic memory allocation extensively in a program ?",
+    "How to manipulate bits ?",
+    "How to use bitwise operators ?",
+    "Explain the difference between (<<) and (>>) bitwise operators.",
+    "What are the advantages of using bitwise operations over traditional arithmetic operations in certain scenarios ?"
+  ]
+}

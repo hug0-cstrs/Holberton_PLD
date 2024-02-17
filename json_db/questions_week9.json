@@ -1,0 +1,19 @@
+{
+  "questions": [
+    "What are structures ?",
+    "When to use structures ?",
+    "Why to use Structures ?",
+    "How to use structures ?",
+    "How to use typedef ?",
+    "What are function pointers ?",
+    "How to use function pointers ?",
+    "What does a function pointer exactly hold ?",
+    "Where does a function pointer point to in the virtual memory ?",
+    "What are variadic functions ?",
+    "How to use va_start macros ?",
+    "How to use va_arg macros ?",
+    "How to use va_end macros ?",
+    "Why to use the const type qualifier ?",
+    "How to use the const type qualifier ?"
+  ]
+}
