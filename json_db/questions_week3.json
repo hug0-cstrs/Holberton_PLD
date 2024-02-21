@@ -15,7 +15,7 @@
     "How does the main function influence the return value of the program ?",
     "What are the arithmetic operators and how to use them ?",
     "What are the logical operators (sometimes called boolean operators) and how to use them ?",
-    "What the the relational operators and how to use them ?",
+    "What is the relational operators and how to use them ?",
     "What values are considered TRUE and FALSE in C ?",
     "What are the boolean operators and how to use them ?",
     "How to use the if, if ... else statements ?",
@@ -38,7 +38,6 @@
     "What are make, Makefiles ?",
     "When, why and how to use Makefiles ?",
     "What are rules and how to set and use them ?",
-    "What are explicit and implicit rules ?",
     "What are the most common / useful rules ?",
     "What are variables and how to set and use them ?"
   ]
